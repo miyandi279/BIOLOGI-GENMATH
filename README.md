@@ -1,5 +1,5 @@
 # BIOLOGI-GENMATH
-matematika untuk menghitung gen suatu mikroorganisme bakteri,virus,makhluk hidup
+matematika untuk menghitung gen dan krosom tulang, bukan untuk menghitung virus
 
 belum dimasukan kedalam web 
 
