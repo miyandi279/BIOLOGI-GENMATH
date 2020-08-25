@@ -1,7 +1,5 @@
 #bin/python
-#code by MIYANDI1927
-#Team : BCSET-TEKNOLOGI
-#YT TEAM : RISKIS7 CHANNEL
+#code by zxsuu 
 #TOOLS :MATHGEN
 
 ##################################################
