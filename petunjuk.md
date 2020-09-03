@@ -5,4 +5,4 @@ kecedasan yang menjadikan manusia menjadi cerdas yaitu menyisipkan program yang 
 sebuah pikiran nya.
 
 
-ilmuwan : @Miyandi Riski Akbar
+ilmuwan:zeosus
