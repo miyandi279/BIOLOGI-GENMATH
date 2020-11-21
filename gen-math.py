@@ -1,9 +1,10 @@
 #bin/python
-#code by zxsuu 
+#code by : MIYANDI279
+#Team : @bengkulucyberteam
 #TOOLS :MATHGEN
 
 ##################################################
-no recode ya bangsat,mandul 7 turunan kalau reode
+no recode ya bangsat,mandul 7 turunan kalau recode
 ##################################################
 
 import numpy as np
@@ -12,8 +13,8 @@ import matplotlib.pyplot as plt
 
 
 print(";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;")
-print(";;;;;;code by miyandi1927  ;;;;;;")
-print(";;;;;;team BCSET TEKNOLOGI ;;;;;;")
+print(";;;;;;code by miyandi279   ;;;;;;")
+print(";;;;;;team BENGKULU CYBER TEAM ;;")
 print(";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;")
 
 def hitung_fitness(x):
